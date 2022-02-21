@@ -5,7 +5,7 @@
 //  Created by 심주흔 on 2021/12/22.
 //  쉽게 풀어쓴 C언어 EXPRESS 2장 4번(page.88)
 
-
+/*
 #include <stdio.h>
 
 
@@ -32,3 +32,5 @@ int main(void){
     }
     return 0;
 }
+*/
+

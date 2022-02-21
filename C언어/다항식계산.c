@@ -5,6 +5,7 @@
 //  Created by 심주흔 on 2021/12/22.
 //  쉽게 풀어쓴 C언어 EXPRESS 3장 5번(page.125)
 
+/*
 #include <stdio.h>
 
 int main(void){
@@ -17,3 +18,5 @@ int main(void){
     
     return 0;
 }
+
+*/
