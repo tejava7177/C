@@ -7,7 +7,6 @@
 //  swicth-case문에서 문자열은 사용할 수 없다.
 //  난수 발생  srand((unsigned)time(NULL))
 
-/*
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -97,4 +96,4 @@ int main(void){
     return 0;
 }
 
-*/
+
