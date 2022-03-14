@@ -8,7 +8,9 @@
 
 
 //  *아직 미완성 된 코드*
-/*
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -57,5 +59,5 @@ void dfs_mat(GraphType * g, int v){
             dfs_mat(g,w);
     }
 }
-*/
+
 
