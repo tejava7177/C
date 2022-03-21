@@ -6,7 +6,6 @@
 //  쉽게 풀어쓴 C언어 EXPRESS 4장 2번(page.168)
 //  16진수를 입력 받아서 8진수, 10진수, 16진수로 변환하는 프로그램
 
-/*
 #include <stdio.h>
 
 int main(void){
@@ -23,4 +22,4 @@ int main(void){
     
     return 0;
 }
-*/
+
