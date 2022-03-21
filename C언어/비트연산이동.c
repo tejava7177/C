@@ -7,7 +7,7 @@
 //  비트 이동 연산을 이용하여 문자 4개를 받아서 하나의 unsigned int 변수 안에 저장하는 프로그램
 //  OR연산 : 두 개의 피연산자의 해당 비트 중 하나만 참이라도 참
 
-/*
+
 #include <stdio.h>
 
 int main(void){
@@ -45,4 +45,3 @@ int main(void){
     printf("result : %08x\n" , num);            //16진수로 출력
     return 0;
 }
-*/
