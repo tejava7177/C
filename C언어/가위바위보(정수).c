@@ -5,7 +5,7 @@
 //  Created by 심주흔 on 2021/12/31.
 //  쉽게 풀어쓴 C언어 Express 6장 4번(p.258)
 
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -56,4 +56,3 @@ int main(void){
     
     return 0;
 }
-*/
