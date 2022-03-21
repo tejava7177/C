@@ -5,8 +5,6 @@
 //  Created by 심주흔 on 2021/12/22.
 //  쉽게 풀어쓴 C언어 EXPRESS 4장 1번(page.168)
 
-
-/*
 #include <stdio.h>
 
 int main(void){
@@ -19,4 +17,3 @@ int main(void){
     
     return 0;
 }
-*/
