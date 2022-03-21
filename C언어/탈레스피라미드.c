@@ -6,8 +6,6 @@
 //  쉽게 풀어쓴 C언어 Express p.221
 //  비례식을 이용하여 탈레스 피라미드 구하기
 
-
-/*
 #include <stdio.h>
 
 int main(void){
@@ -32,4 +30,3 @@ int main(void){
     
     return 0;
 }
-*/
